@@ -1,4 +1,4 @@
-# Facebook Project
+# SocialMedia Project
 
 The Ecommerce Project is a BackEnd application developed using Node.js and Express.js. It provides a comprehensive platform for online shopping, offering a wide range of products across various categories. The application aims to deliver a seamless shopping experience for users and efficient management tools for administrators.
 
