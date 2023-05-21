@@ -1,6 +1,6 @@
 # SocialMedia Project
 
-The Ecommerce Project is a BackEnd application developed using Node.js and Express.js. It provides a comprehensive platform for online shopping, offering a wide range of products across various categories. The application aims to deliver a seamless shopping experience for users and efficient management tools for administrators.
+The SocialMedia Project is a BackEnd social media application built with Node.js, Express.js, and MongoDB. It aims to provide a comprehensive platform for users to connect, share content, and communicate with friends and family.
 
 ## Features
 
